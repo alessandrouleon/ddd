@@ -1,4 +1,4 @@
-import { Address } from "../adress";
+import { Address } from "./adress";
 import { Customer } from "./customer";
 
 describe('Customer unit test Entity', () => {

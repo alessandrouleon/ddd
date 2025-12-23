@@ -1,7 +1,7 @@
 
-import { Customer } from "../entity/customer/customer";
-import { OrderItem } from "../entity/order-item";
-import { Order } from "../entity/order/order";
+import { Customer } from "../customer/entity/customer";
+import { Order } from "../order/entity/order";
+import { OrderItem } from "../order/entity/order-item";
 
 export class OrderService {
     static total(orders: Order[]): number {

@@ -1,4 +1,4 @@
-import { Address } from "../adress";
+import { Address } from "./adress";
 
 export class Customer {
     private _id: string;
