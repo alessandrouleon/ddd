@@ -1,4 +1,4 @@
-import { Address } from "./domain/customer/entity/adress";
+import { Address } from "./domain/customer/valoe-object/adress";
 import { Customer } from "./domain/entity/customer/customer";
 import { Order } from "./domain/entity/order/order";
 import { OrderItem } from "./domain/order/entity/order-item";

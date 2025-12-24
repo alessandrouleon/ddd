@@ -1,6 +1,6 @@
 import { Sequelize } from 'sequelize-typescript';
-import { Address } from '../../../domain/customer/entity/adress';
 import { Customer } from '../../../domain/customer/entity/customer';
+import { Address } from '../../../domain/customer/valoe-object/adress';
 import { Order } from '../../../domain/order/entity/order';
 import { OrderItem } from '../../../domain/order/entity/order-item';
 import { Product } from '../../../domain/product/entity/product';
